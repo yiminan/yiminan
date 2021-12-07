@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![orgojy's github stats](https://github-readme-stats.vercel.app/api?username=orgojy&show_icons=true&theme=merko)
+![orgojy's github stats](https://github-readme-stats.vercel.app/api?username=orgojy)
 
 <!--
 **orgojy/orgojy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
