@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I'm Back-End Server Developer / AWS Infra Engineer Yimin An. :wave:
 
 ![orgojy's github stats](https://github-readme-stats.vercel.app/api?username=orgojy)
 
