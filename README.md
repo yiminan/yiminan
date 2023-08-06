@@ -4,4 +4,4 @@ Now, I'm working for [Toss payments Inc.](https://www.tosspayments.com) in Repub
 
 ---
 
-![orgojy's github stats](https://github-readme-stats.vercel.app/api?username=orgojy&show_icons=true&theme=radical)
+![yiminan's github stats](https://github-readme-stats.vercel.app/api?username=yiminan&show_icons=true&theme=radical)
